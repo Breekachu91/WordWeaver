@@ -8,8 +8,11 @@ Acquire the script by cloning the repo or downloading the `.py` file directly.
 `python WordWeaver.py [-h] [-w WORD] [-i INPUT] [-o OUTPUT] [-L]`
 
 `-w <word/string>` - Optional: generate a list off a single word (Must be used if input file not provided) 
+
 `-i <word file>` - Optional: Provide a word list to run through the script. (Must be provided if `-w` is not provied)
+
 `-o <output file>` - Optional: Specify output file for generate word list. If one is not specified, outputs to standard output. 
+
 `-L` - Optional: If set, 1337 speek variations will be done. 
 
 ### Contributing 
