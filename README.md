@@ -21,5 +21,11 @@ Example:
 
 `python word_weaver.py -i inputwords.txt -o mywordlist.txt`
 
-### Contributing 
+## ToDo
+1) Add option for adding a string that prepends or appends all of the resulting words.
+  - ex. for instance adding 2024 to all the results at the end. 
+2) Create option and functionality for random generation
+3) Create option and functionality for permuation and shuffling of the strings (revers, letters of the word in random order, etc.) 
+
+## Contributing 
 Feel free to open an issue if you think something should be changed or added, or fork the repo and edit the code yourself and make a merge request. 
